@@ -1,0 +1,12 @@
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe.config
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.pdb
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.AssemblyReference.cache
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmFileName.resources
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmLab1.resources
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.Properties.Resources.resources
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.CoreCompileInputs.cache
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.exe
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.pdb
+C:\Users\jakem\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmRegistration.resources
